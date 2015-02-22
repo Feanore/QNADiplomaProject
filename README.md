@@ -1,5 +1,6 @@
 # QNADiplomaProject
 
+The Diploma Project of Dilmaganbetova A.
 
 # License
 
